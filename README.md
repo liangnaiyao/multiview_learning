@@ -22,5 +22,5 @@
  
  * 1.9 KBS20 Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints [(matlab)](https://github.com/liangnaiyao/NMFCC)
  
- * 1.10 KBS20 KBS20 Semi-supervised Multi-view Clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization [(matlab)](https://github.com/liangnaiyao/GPSNMF)
+ * 1.10 KBS20 Semi-supervised Multi-view Clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization [(matlab)](https://github.com/liangnaiyao/GPSNMF)
  
