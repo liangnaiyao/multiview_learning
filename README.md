@@ -1,3 +1,4 @@
-# Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints
+## Traditional transfer learning methods  非深度迁移
 
-This is the code for paper "Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints", Knowledge-Based Systems, 2020.
+- **SVM** (baseline)
+	- [Matlab](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/SVM.m)
