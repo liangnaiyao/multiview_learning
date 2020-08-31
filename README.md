@@ -25,6 +25,7 @@
  * 1.10 KBS20 Semi-supervised Multi-view Clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization [(matlab)](https://github.com/liangnaiyao/GPSNMF)
  
  * 1.11 NC18 Adaptive Structure Concept Factorization for Multiview Clustering [(matlab)](https://github.com/kunzhan/MVCF)
+     - Concept Matrix Factorization is a variant of NMF.   
  
 ### 2. Graph learning based methods with code
 
