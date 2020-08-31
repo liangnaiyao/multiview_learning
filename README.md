@@ -8,7 +8,7 @@
  * 1.2 ICPR16 Partial Multi-View Clustering Using Graph Regularized NMF [(matlab)](https://github.com/nishantrai18/MultiViewNMF)
  
  * 1.3 ICDM16 Multi-View Clustering via Concept Factorization with Local Manifold Regularization [(matlab)](https://github.com/vast-wang/Clustering)
-    - Concept Matrix Factorization is a variant of NMF.   
+    - Concept Factorization is a variant of NMF.   
     
  * 1.4 TC19 Individuality- and Commonality-Based Multiview Multilabel Learning [(matlab)](http://mlda.swu.edu.cn/publication.php)
  
@@ -25,7 +25,7 @@
  * 1.10 KBS20 Semi-supervised Multi-view Clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization [(matlab)](https://github.com/liangnaiyao/GPSNMF)
  
  * 1.11 NC18 Adaptive Structure Concept Factorization for Multiview Clustering [(matlab)](https://github.com/kunzhan/MVCF)
-     - Concept Matrix Factorization is a variant of NMF.   
+     - Concept Factorization is a variant of NMF.   
  
 ### 2. Graph learning based methods with code
 
