@@ -24,6 +24,8 @@
  
  * 1.10 KBS20 Semi-supervised Multi-view Clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization [(matlab)](https://github.com/liangnaiyao/GPSNMF)
  
+ * 1.11 NC18 Adaptive Structure Concept Factorization for Multiview Clustering [(matlab)](https://github.com/kunzhan/MVCF)
+ 
 ### 2. Graph learning based methods with code
 
  * 2.1 ICDM19 Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [(matlab)](https://github.com/youweiliang/ConsistentGraphLearning)
