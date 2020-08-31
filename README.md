@@ -51,6 +51,8 @@
 
  * 3.2 The method in 2.8 is also a self-representation based method. 
  
+ * 3.3 PR18 Multi-view Low-rank Sparse Subspace Clustering [(matlab)](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering)
+ 
  ### 4. Tensor based methods with code
 
  * 4.1 TNNLS18 Multiview Subspace Clustering via Tensorial t-Product Representation [(matlab)](http://www.scholat.com/portaldownloadFile.html?fileId=4623)
