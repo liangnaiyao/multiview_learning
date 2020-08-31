@@ -26,7 +26,7 @@
  
 ### 2. Graph learning based methods with code
 
- * 2.1 ICDM19 Consistency Meets Inconsistency_ A Unified Graph Learning Framework for Multi-view Clustering [(matlab)](https://github.com/youweiliang/ConsistentGraphLearning)
+ * 2.1 ICDM19 Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [(matlab)](https://github.com/youweiliang/ConsistentGraphLearning)
  
  * 2.2 TIP19 Multiview Consensus Graph Clustering [(matlab)](https://github.com/kunzhan/MCGC)
 
@@ -38,4 +38,8 @@
 
  * 2.6 TC18 Graph Learning for Multiview Clustering [(matlab)](https://github.com/kunzhan/MVGL)
  
- * 2.7 ijcai16 Parameter-Free Auto-Weighted Multiple Graph Learning [(matlab)](http://www.escience.cn/people/fpnie/papers.html)
+ * 2.7 IJCAI16 Parameter-Free Auto-Weighted Multiple Graph Learning [(matlab)](http://www.escience.cn/people/fpnie/papers.html)
+ 
+ ### 3. Self-representation based methods with code
+
+ * 3.1 AAAI18 Consistent and Specific Multi-View Subspace Clustering [(matlab)](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering)
