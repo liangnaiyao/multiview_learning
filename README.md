@@ -67,6 +67,8 @@
 
  * 6.1 Access18 Multi-view Analysis Dictionary Learning for Image Classification [(matlab)](https://github.com/qianyuwang/MvADL)
  
-  ### 7. Deep learning based methods with code
+  ### 7. Deep learning based or network based methods with code
 
  * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
+ 
+ * 7.2 NIPS19 CPM-Nets_ Cross Partial Multi-View Networks [(python)](https://github.com/hanmenghan/CPM_Nets)
