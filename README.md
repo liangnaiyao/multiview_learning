@@ -69,4 +69,4 @@
  
   ### 7. Deep learning based methods with code
 
- * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(pyhon)](https://github.com/huybery/MvDSCN)
+ * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
