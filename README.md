@@ -2,7 +2,7 @@
 
 ## Part A: general multi-view methods with code 
 
-### 1. NMF (non-negative matrix factorization) based methods with code
+### 1. NMF (non-negative matrix factorization) based methods
 
  * 1.1 AAAI17 Multi-View Clustering via Deep Matrix Factorization [(matlab)](https://github.com/hdzhao/DMF_MVC)
     - Deep Matrix Factorization is a variant of NMF.
@@ -29,7 +29,7 @@
  * 1.11 NC18 Adaptive Structure Concept Factorization for Multiview Clustering [(matlab)](https://github.com/kunzhan/MVCF)
      - Concept Factorization is a variant of NMF.   
  
-### 2. Graph learning based methods with code
+### 2. Graph learning based methods
 
  * 2.1 ICDM19 Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [(matlab)](https://github.com/youweiliang/ConsistentGraphLearning)
  
@@ -47,7 +47,7 @@
  
  * 2.8 TC18 Incomplete Multiview Spectral Clustering With Adaptive Graph Learning [(matlab)](http://www.yongxu.org/lunwen.html)
  
- ### 3. Self-representation based methods with code
+ ### 3. Self-representation based methods
 
  * 3.1 AAAI18 Consistent and Specific Multi-View Subspace Clustering [(matlab)](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering)
 
@@ -59,19 +59,19 @@
  
  * 3.5 TIP19 Split Multiplicative Multi-view Subspace Clustering [(matlab)](https://qianqianxu010.github.io/publications/)
  
- ### 4. Tensor based methods with code
+ ### 4. Tensor based methods
 
  * 4.1 TNNLS18 Multiview Subspace Clustering via Tensorial t-Product Representation [(matlab)](http://www.scholat.com/portaldownloadFile.html?fileId=4623)
  
- ### 5. Kernel learning based methods with code
+ ### 5. Kernel learning based methods
 
  * 5.1 N18 Local kernel alignment based multi-view clustering using extreme learning machine [(matlab)](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM)
  
-  ### 6. Dictionary learning based methods with code
+  ### 6. Dictionary learning based methods
 
  * 6.1 Access18 Multi-view Analysis Dictionary Learning for Image Classification [(matlab)](https://github.com/qianyuwang/MvADL)
  
-  ### 7. Deep learning based or network based methods with code
+  ### 7. Deep learning based or network based methods
 
  * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
  
