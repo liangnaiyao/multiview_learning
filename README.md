@@ -1,5 +1,7 @@
 # Multi-view learning methods with code
 
+## Part A: general multi-view methoeds with code 
+
 ### 1. NMF (non-negative matrix factorization) based methods with code
 
  * 1.1 AAAI17 Multi-View Clustering via Deep Matrix Factorization [(matlab)](https://github.com/hdzhao/DMF_MVC)
