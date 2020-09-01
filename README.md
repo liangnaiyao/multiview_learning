@@ -82,3 +82,6 @@
  * 7.5 TIP19 Multi-View Linear Discriminant Analysis Network [(python)](https://github.com/penghu-cs/MvLDAN)
 
  * 7.6 TIP19 Deep Multi-View Learning Using Neuron-Wise Correlation-Maximizing Regularizers [(python)](https://github.com/JiehongLin/CorrReg)
+ 
+ * 7.7 ICCV15 Multi-view Convolutional Neural Networks for 3D Shape Recognition [(matlab)](https://github.com/suhangpro/mvcnn)
+ 
