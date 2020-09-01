@@ -78,3 +78,7 @@
  * 7.3 AAA18 Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [(python)](https://github.com/huaxiuyao/DMVST-Net)
 
  * 7.4 TKDE20 MV-RNN_ A Multi-View Recurrent Neural Network for Sequential Recommendation [(python)](https://github.com/CRIPAC-DIG/MV-RNN)
+
+ * 7.5 TIP19 Multi-View Linear Discriminant Analysis Network [(python)](https://github.com/penghu-cs/MvLDAN)
+
+ * 7.6 TIP19 Deep Multi-View Learning Using Neuron-Wise Correlation-Maximizing Regularizers [(python)](https://github.com/JiehongLin/CorrReg)
