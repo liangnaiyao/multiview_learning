@@ -74,3 +74,7 @@
  * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
  
  * 7.2 NIPS19 CPM-Nets: Cross Partial Multi-View Networks [(python)](https://github.com/hanmenghan/CPM_Nets)
+ 
+ * 7.3 AAA18 Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [(python)](https://github.com/huaxiuyao/DMVST-Net)
+
+ * 7.4 TKDE20 MV-RNN_ A Multi-View Recurrent Neural Network for Sequential Recommendation [(python)](https://github.com/CRIPAC-DIG/MV-RNN)
