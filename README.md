@@ -73,4 +73,4 @@
 
  * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
  
- * 7.2 NIPS19 CPM-Nets_ Cross Partial Multi-View Networks [(python)](https://github.com/hanmenghan/CPM_Nets)
+ * 7.2 NIPS19 CPM-Nets: Cross Partial Multi-View Networks [(python)](https://github.com/hanmenghan/CPM_Nets)
