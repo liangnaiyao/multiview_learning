@@ -89,6 +89,10 @@
  
  ## Part B: multi-view applications with code 
 
- ### 1. Incomplete or partial multi-view learning methods with code
+ ### 1. Incomplete or partial multi-view learning
 
  * 1.1 AAAI19 Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering [(matlab)](http://www.yongxu.org/lunwen.html)
+
+ ### 2. Person Re-Identification
+
+ * 2.1 TPAMI18 Person Re-Identification by Cross-View Multi-Level Dictionary Learning [(matlab)](https://sites.google.com/view/shengli)
