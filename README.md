@@ -55,6 +55,8 @@
  
  * 3.4 CVPR15 Diversity-induced Multi-view Subspace Clustering [(matlab)](https://hzfu.github.io/)
  
+ * 3.5 TIP19 Split Multiplicative Multi-view Subspace Clustering [(matlab)](https://qianqianxu010.github.io/publications/)
+ 
  ### 4. Tensor based methods with code
 
  * 4.1 TNNLS18 Multiview Subspace Clustering via Tensorial t-Product Representation [(matlab)](http://www.scholat.com/portaldownloadFile.html?fileId=4623)
