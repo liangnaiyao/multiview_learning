@@ -53,6 +53,8 @@
  
  * 3.3 PR18 Multi-view Low-rank Sparse Subspace Clustering [(matlab)](https://github.com/mbrbic/Multi-view-LRSSC)
  
+ * 3.4 CVPR15 Diversity-induced Multi-view Subspace Clustering [(matlab)](https://hzfu.github.io/)
+ 
  ### 4. Tensor based methods with code
 
  * 4.1 TNNLS18 Multiview Subspace Clustering via Tensorial t-Product Representation [(matlab)](http://www.scholat.com/portaldownloadFile.html?fileId=4623)
@@ -61,6 +63,10 @@
 
  * 5.1 N18 Local kernel alignment based multi-view clustering using extreme learning machine [(matlab)](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM)
  
-  ### 6. Dictionary Learning based methods with code
+  ### 6. Dictionary learning based methods with code
 
  * 6.1 Access18 Multi-view Analysis Dictionary Learning for Image Classification [(matlab)](https://github.com/qianyuwang/MvADL)
+ 
+  ### 7. Deep learning based methods with code
+
+ * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(pyhon)](https://github.com/huybery/MvDSCN)
