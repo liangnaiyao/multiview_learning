@@ -1,6 +1,6 @@
 # Multi-view learning methods with code
 
-## Part A: general multi-view methoeds with code 
+## Part A: general multi-view methods with code 
 
 ### 1. NMF (non-negative matrix factorization) based methods with code
 
@@ -87,3 +87,8 @@
  
  * 7.7 ICCV15 Multi-view Convolutional Neural Networks for 3D Shape Recognition [(matlab)](https://github.com/suhangpro/mvcnn)
  
+ ## Part B: multi-view applications with code 
+
+ ### 1. Incomplete or partial multi-view learning methods with code
+
+ * 1.1 AAAI19 Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering [(matlab)](http://www.yongxu.org/lunwen.html)
