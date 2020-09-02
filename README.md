@@ -2,8 +2,8 @@
 
 ## Part A: general multi-view methods with code 
 
-#### 1. NMF (non-negative matrix factorization) based methods
- - NMF factorizes the non-negative data matrix into two non-negative matrices.
+### 1. NMF (non-negative matrix factorization) based methods
+ NMF factorizes the non-negative data matrix into two non-negative matrices.
 
  * 1.1 AAAI17 Multi-View Clustering via Deep Matrix Factorization [(matlab)](https://github.com/hdzhao/DMF_MVC)
     - Deep Matrix Factorization is a variant of NMF.
