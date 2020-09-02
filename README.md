@@ -3,6 +3,7 @@
 ## Part A: general multi-view methods with code 
 
 ### 1. NMF (non-negative matrix factorization) based methods
+     - NMF factorizes the non-negative data matrix into two non-negative matrices.
 
  * 1.1 AAAI17 Multi-View Clustering via Deep Matrix Factorization [(matlab)](https://github.com/hdzhao/DMF_MVC)
     - Deep Matrix Factorization is a variant of NMF.
@@ -100,6 +101,8 @@
  * 1.4 ICDM16 Online Unsupervised Multi-view Feature Selection [(matlab)](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection)
 
  * 1.5 IJCAI16 Incomplete Multi-Modal Visual Data Grouping [(matlab)](https://github.com/hdzhao/IMG)
+
+ * 1.6 TC20 Generalized Incomplete Multiview Clustering With Flexible Locality Structure Diffusion [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications)
 
  ### 2. Person Re-Identification
 
