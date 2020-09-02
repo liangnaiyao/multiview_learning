@@ -93,6 +93,20 @@
 
  * 1.1 AAAI19 Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering [(matlab)](http://www.yongxu.org/lunwen.html)
 
+ * 1.2 ECML15 Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with L2,1 Regularization [(matlab)](https://github.com/software-shao/Multi-Incomplete-view-Clustering)
+
+ * 1.3 BD16 Online Multi-view Clustering with Incomplete Views [(matlab)](https://github.com/software-shao/online-multiview-clustering-with-incomplete-view)
+
+ * 1.4 ICDM16 Online Unsupervised Multi-view Feature Selection [(matlab)](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection)
+
+ * 1.5 IJCAI16 Incomplete Multi-Modal Visual Data Grouping [(matlab)](https://github.com/hdzhao/IMG)
+
  ### 2. Person Re-Identification
 
  * 2.1 TPAMI18 Person Re-Identification by Cross-View Multi-Level Dictionary Learning [(matlab)](https://sites.google.com/view/shengli)
+ 
+ ### 3. Outlier detection
+
+ * 3.1 TKDD18 Multi-View Low-Rank Analysis with Applications to Outlier Detection [(matlab)](http://cobweb.cs.uga.edu/~shengli/?tdsourcetag=s_pcqq_aiomsg)
+
+ * 3.2 AAAI18 Partial Multi-View Outlier Detection [(matlab)](https://github.com/eeGuoJun/AAAI2018_CL)
