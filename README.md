@@ -110,3 +110,12 @@
  * 3.1 TKDD18 Multi-View Low-Rank Analysis with Applications to Outlier Detection [(matlab)](http://cobweb.cs.uga.edu/~shengli/?tdsourcetag=s_pcqq_aiomsg)
 
  * 3.2 AAAI18 Partial Multi-View Outlier Detection [(matlab)](https://github.com/eeGuoJun/AAAI2018_CL)
+
+ ### 4. Zero shot learning
+
+ * 4.1 ECCV14 Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation [(matlab)](https://yanweifu.github.io/embedding/index.html)
+ 
+ ### 5. Multi-label learning
+
+ * 5.1 SIAM18 Multi-view Weak-label Learning based on Matrix Completion [(matlab)](http://mlda.swu.edu.cn/codes.php?name=McWL)
+      - Weak-label learning is an important branch of multi-label learning.   
