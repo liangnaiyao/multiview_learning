@@ -48,6 +48,8 @@
  
  * 2.8 TC18 Incomplete Multiview Spectral Clustering With Adaptive Graph Learning [(matlab)](http://www.yongxu.org/lunwen.html)
  
+ * 2.9 TKDE19 Graph structure fusion for multiview clustering [(matlab)](https://github.com/dugzzuli/Graph-structure-fusion-for-multiview-clustering)
+ 
  ### 3. Self-representation based methods
 
  * 3.1 AAAI18 Consistent and Specific Multi-View Subspace Clustering [(matlab)](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering)
