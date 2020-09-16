@@ -102,11 +102,9 @@
 
  * 1.3 BD16 Online Multi-view Clustering with Incomplete Views [(matlab)](https://github.com/software-shao/online-multiview-clustering-with-incomplete-view)
 
- * 1.4 ICDM16 Online Unsupervised Multi-view Feature Selection [(matlab)](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection)
+ * 1.4 IJCAI16 Incomplete Multi-Modal Visual Data Grouping [(matlab)](https://github.com/hdzhao/IMG)
 
- * 1.5 IJCAI16 Incomplete Multi-Modal Visual Data Grouping [(matlab)](https://github.com/hdzhao/IMG)
-
- * 1.6 TC20 Generalized Incomplete Multiview Clustering With Flexible Locality Structure Diffusion [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications)
+ * 1.5 TC20 Generalized Incomplete Multiview Clustering With Flexible Locality Structure Diffusion [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications)
 
  ### 2. Person Re-Identification
 
@@ -125,4 +123,10 @@
  ### 5. Multi-label learning
 
  * 5.1 SIAM18 Multi-view Weak-label Learning based on Matrix Completion [(matlab)](http://mlda.swu.edu.cn/codes.php?name=McWL)
-      - Weak-label learning is an important branch of multi-label learning.   
+      - Weak-label learning is an important branch of multi-label learning. 
+      
+ ### 6. Online learning      
+ 
+ * 6.1 ICDM16 Online Unsupervised Multi-view Feature Selection [(matlab)](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection)
+     
+      
