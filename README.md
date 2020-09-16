@@ -129,4 +129,6 @@
  
  * 6.1 ICDM16 Online Unsupervised Multi-view Feature Selection [(matlab)](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection)
      
-      
+ ### 7.Multi-Instance learning
+
+ * 7.1 AAA19 Multi-View Multi-Instance Multi-Label Learning based on Collaborative Matrix Factorization [(matlab)](http://mlda.swu.edu.cn/codes.php?name=M3Lcmf)
