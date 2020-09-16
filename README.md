@@ -98,6 +98,8 @@
 
  * 8.2 KBS18 Multi-view learning based on Nonparallel Support Vector Machine [(matlab)](https://github.com/tangjingjing13/mvnpsvm)
 
+ * 8.3 IS19 Coupling Privileged Kernel Method for Multi-view Learning [(matlab)](https://github.com/tangjingjing13/rpsvm2v)
+
  ## Part B: multi-view applications with code 
 
  ### 1. Incomplete or partial multi-view learning
