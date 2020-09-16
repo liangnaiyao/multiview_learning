@@ -29,6 +29,8 @@
  
  * 1.11 NC18 Adaptive Structure Concept Factorization for Multiview Clustering [(matlab)](https://github.com/kunzhan/MVCF)
      - Concept Factorization is a variant of NMF.   
+     
+ * ICDE20 A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-view-Clustering-2CMV)
  
 ### 2. Graph learning based methods
 
