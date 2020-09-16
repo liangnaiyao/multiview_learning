@@ -96,6 +96,8 @@
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
 
+ * 8.2 KBS18 Multi-view learning based on Nonparallel Support Vector Machine [(matlab)](https://github.com/tangjingjing13/mvnpsvm)
+
  ## Part B: multi-view applications with code 
 
  ### 1. Incomplete or partial multi-view learning
