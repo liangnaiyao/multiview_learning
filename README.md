@@ -52,11 +52,11 @@
  
  * 2.9 TKDE19 Graph structure fusion for multiview clustering [(matlab)](https://github.com/dugzzuli/Graph-structure-fusion-for-multiview-clustering)
  
- * 3.10 ACML19 Latent Multi-view Semi-Supervised Classification [(matlab)](https://github.com/sckangz/LMVL)
+ * 2.10 ACML19 Latent Multi-view Semi-Supervised Classification [(matlab)](https://github.com/sckangz/LMVL)
  
- * 3.11 NN20 Partition level multiview subspace clustering [(matlab)](https://github.com/sckangz/PMSC)
+ * 2.11 NN20 Partition level multiview subspace clustering [(matlab)](https://github.com/sckangz/PMSC)
 
- * 3.12 KBS20 Multi-graph Fusion for Multi-view Spectral Clustering [(matlab)](https://github.com/sckangz/GFSC)
+ * 2.12 KBS20 Multi-graph Fusion for Multi-view Spectral Clustering [(matlab)](https://github.com/sckangz/GFSC)
 
  ### 3. Self-representation based methods
 
