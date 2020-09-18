@@ -73,6 +73,8 @@
  ### 4. Tensor based methods
 
  * 4.1 TNNLS18 Multiview Subspace Clustering via Tensorial t-Product Representation [(matlab)](http://www.scholat.com/portaldownloadFile.html?fileId=4623)
+
+ * 4.2 ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
  
  ### 5. Kernel learning based methods
 
