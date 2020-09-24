@@ -142,7 +142,7 @@
  
  ### 5. Multi-label learning
 
- * 5.1 SIAM SDM 18 Multi-view Weak-label Learning based on Matrix Completion [(matlab)](http://mlda.swu.edu.cn/codes.php?name=McWL)
+ * 5.1 SIAM SDM18 Multi-view Weak-label Learning based on Matrix Completion [(matlab)](http://mlda.swu.edu.cn/codes.php?name=McWL)
       - Weak-label learning is an important branch of multi-label learning. 
       
  ### 6. Online learning      
