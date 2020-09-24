@@ -57,6 +57,8 @@
  * 2.11 NN20 Partition level multiview subspace clustering [(matlab)](https://github.com/sckangz/PMSC)
 
  * 2.12 KBS20 Multi-graph Fusion for Multi-view Spectral Clustering [(matlab)](https://github.com/sckangz/GFSC)
+ 
+ * 2.13 TIP17 Flexible Multi-view Dimensionality co-Reduction [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
 
  ### 3. Self-representation based methods
 
