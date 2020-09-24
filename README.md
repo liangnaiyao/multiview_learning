@@ -103,6 +103,8 @@
  * 7.8 CVPR19 AE2-Nets:Autoencoder in Autoencoder Networks [(python)](https://github.com/willow617/AE2-Nets)
  
  * 7.9 IJCAI19 Multi-view Spectral Clustering Network [(python)](https://github.com/limit-scu/2019-IJCAI-MvSCN)
+  
+ * 7.10 ICCV19 Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering [(matlab)](https://github.com/limit-scu/2019-ICCV-RMSL)
 
  ### 8. SVM based methods
 
