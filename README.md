@@ -101,6 +101,8 @@
  * 7.7 ICCV15 Multi-view Convolutional Neural Networks for 3D Shape Recognition [(matlab)](https://github.com/suhangpro/mvcnn)
 
  * 7.8 CVPR19 AE2-Nets:Autoencoder in Autoencoder Networks [(python)](https://github.com/willow617/AE2-Nets)
+ 
+ * 7.9 IJCAI19 Multi-view Spectral Clustering Network [(python)](https://github.com/limit-scu/2019-IJCAI-MvSCN)
 
  ### 8. SVM based methods
 
