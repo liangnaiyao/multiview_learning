@@ -59,6 +59,8 @@
  * 2.12 KBS20 Multi-graph Fusion for Multi-view Spectral Clustering [(matlab)](https://github.com/sckangz/GFSC)
  
  * 2.13 TIP17 Flexible Multi-view Dimensionality co-Reduction [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
+ 
+ * 2.14 ICML19 COMIC: Multi-view Clustering Without Parameter Selection [(python)](https://github.com/limit-scu/2019-ICML-COMIC)
 
  ### 3. Self-representation based methods
 
@@ -107,6 +109,7 @@
  * 7.9 IJCAI19 Multi-view Spectral Clustering Network [(python)](https://github.com/limit-scu/2019-IJCAI-MvSCN)
   
  * 7.10 ICCV19 Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering [(matlab)](https://github.com/limit-scu/2019-ICCV-RMSL)
+ 
 
  ### 8. SVM based methods
 
