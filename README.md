@@ -88,6 +88,8 @@
 
  * 6.1 Access18 Multi-view Analysis Dictionary Learning for Image Classification [(matlab)](https://github.com/qianyuwang/MvADL)
  
+ * 6.2 TIP16 Multimodal Task-Driven Dictionary Learning for Image Classification[(matlab)](https://github.com/soheilb/multimodal_dictionary_learning)
+ 
   ### 7. Deep learning based or network based methods
 
  * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
