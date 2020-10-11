@@ -32,8 +32,9 @@
      
  * 1.12 ICDE20 A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-view-Clustering-2CMV)
  
-### 2. Graph learning based methods
-
+### 2. Graph based methods
+     It contains two kinds of methods. The first kind is using a predefined graph, and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
+     
  * 2.1 ICDM19 Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [(matlab)](https://github.com/youweiliang/ConsistentGraphLearning)
  
  * 2.2 TIP19 Multiview Consensus Graph Clustering [(matlab)](https://github.com/kunzhan/MCGC)
