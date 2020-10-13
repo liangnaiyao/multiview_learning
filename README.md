@@ -66,6 +66,7 @@
  * 2.15 AAAI20 Multi-View Clustering in Latent Embedding Space [(matlab)](https://github.com/Ttuo123/MCLES)
 
  ### 3. Self-representation based methods
+     Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
  * 3.1 AAAI18 Consistent and Specific Multi-View Subspace Clustering [(matlab)](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering)
 
