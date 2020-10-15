@@ -84,6 +84,8 @@
 
  * 4.2 ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
  
+ * 4.3 TIP19 Essential tensor learning for multi-view spectral clustering [(matlab)](https://github.com/Jlwu1992/Code-for-ETLMSC/tree/c83e5b336ca2490bbfb32415930326e0536391f1)
+ 
  ### 5. Kernel learning based methods
 
  * 5.1 N18 Local kernel alignment based multi-view clustering using extreme learning machine [(matlab)](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM)
