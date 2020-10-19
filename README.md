@@ -131,6 +131,7 @@
  ## Part B: multi-view applications with code 
 
  ### 1. Incomplete or partial multi-view learning
+     some views of samples are missing
 
  * 1.1 AAAI19 Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering [(matlab)](http://www.yongxu.org/lunwen.html)
 
