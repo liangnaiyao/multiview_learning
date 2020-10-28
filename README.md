@@ -121,7 +121,6 @@
   
  * 7.10 ICCV19 Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering [(matlab)](https://github.com/limit-scu/2019-ICCV-RMSL)
  
-
  ### 8. SVM based methods
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
@@ -129,7 +128,11 @@
  * 8.2 KBS18 Multi-view learning based on Nonparallel Support Vector Machine [(matlab)](https://github.com/tangjingjing13/mvnpsvm)
 
  * 8.3 IS19 Coupling Privileged Kernel Method for Multi-view Learning [(matlab)](https://github.com/tangjingjing13/rpsvm2v)
+ 
+ ### 9. Co-training based methods
 
+ * 9.1 JMLR20 Self-paced Multi-view Co-training [(python)](https://github.com/Flowerfan/SPamCo)
+ 
  ## Part B: multi-view applications with code 
 
  ### 1. Incomplete or partial multi-view learning
