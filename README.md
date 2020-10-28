@@ -64,6 +64,8 @@
  * 2.14 ICML19 COMIC: Multi-view Clustering Without Parameter Selection [(python)](https://github.com/limit-scu/2019-ICML-COMIC)
 
  * 2.15 AAAI20 Multi-View Clustering in Latent Embedding Space [(matlab)](https://github.com/Ttuo123/MCLES)
+ 
+ * 2.16 PR19 Multi-view Subspace Clustering with Intactness-Aware Similarity [(matlab)](http://www.cbsr.ia.ac.cn/users/xiaobowang/)
 
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
