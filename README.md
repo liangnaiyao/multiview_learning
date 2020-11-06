@@ -170,6 +170,8 @@
       - Weak-label learning is an important branch of multi-label learning. 
 
  * 5.2 Access19 Multi-View Multi-Label Learning With View-Label-Specific Features [(matlab)](https://github.com/jiunhwang/Date_and_Code/blob/master/code_and_data/VLSF-public.zip)
+ 
+ * 5.3 The method in 1.4 is also a multi-label learning method.
 
  ### 6. Online learning      
  
