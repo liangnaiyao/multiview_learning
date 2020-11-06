@@ -33,7 +33,7 @@
  * 1.12 ICDE20 A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-view-Clustering-2CMV)
  
 ### 2. Graph based methods
-     It contains two kinds of methods. The first kind is using a predefined graph, and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
+     It contains two kinds of methods. The first kind is using a predefined graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
      
  * 2.1 ICDM19 Consistency Meets Inconsistency: A Unified Graph Learning Framework for Multi-view Clustering [(matlab)](https://github.com/youweiliang/ConsistentGraphLearning)
  
@@ -66,6 +66,8 @@
  * 2.15 AAAI20 Multi-View Clustering in Latent Embedding Space [(matlab)](https://github.com/Ttuo123/MCLES)
  
  * 2.16 PR19 Multi-view Subspace Clustering with Intactness-Aware Similarity [(matlab)](http://www.cbsr.ia.ac.cn/users/xiaobowang/)
+
+ * 2.17 IF20 Multi-view spectral clustering via integrating nonnegative embedding and spectral embedding [(matlab)](https://github.com/sudalvxin/SMSC)
 
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
