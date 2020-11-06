@@ -82,6 +82,8 @@
  
  * 3.5 TIP19 Split Multiplicative Multi-view Subspace Clustering [(matlab)](https://qianqianxu010.github.io/publications/)
  
+ * 3.6 CVPR17 Exclusivity-Consistency Regularized Multi-view Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
+ 
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
 
