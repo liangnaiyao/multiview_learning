@@ -32,6 +32,8 @@
      
  * 1.12 ICDE20 A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-view-Clustering-2CMV)
  
+ * 1.13 ECCCV20 SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning [(python)](https://github.com/yidaiqiushen/SPL-MLL)
+ 
 ### 2. Graph based methods
      It contains two kinds of methods. The first kind is using a predefined graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
      
