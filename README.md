@@ -189,6 +189,8 @@
  
  * 8.1 AAAI20 Large-scale Multi-view Subspace Clustering in Linear Time [(matlab)](https://github.com/sckangz/LMVSC)
  
+ * 8.2 AAAI15 Large-scale multi-view spectral clustering via bipartite graph [(matlab)](https://github.com/zzz123xyz/MVSC)
+ 
  ### 9. Non-independently and Non-identically Distributed Complex Noise
  
  * 9.1 TNNLS19 Robust Multi-view Subspace Learning with Non-independently and Non-identically Distributed Complex Noise [(matlab)](https://github.com/zsyOAOA/NIID-MSL/tree/master/inexact_alm_rpca)
