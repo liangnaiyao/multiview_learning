@@ -42,7 +42,7 @@
  * 2.2 TIP19 Multiview Consensus Graph Clustering [(matlab)](https://github.com/kunzhan/MCGC)
 
  * 2.3 TIP18 Auto-Weighted Multi-View Learning for Image Clustering and Semi-Supervised Classification [(matlab)](http://www.escience.cn/people/fpnie/papers.html)[(python)](https://github.com/Zing22/mlan)
-     - The conference variant is called AAAI17 Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours.
+     - The conference variant is AAAI17 Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours.
  
  * 2.4 TKDE19 GMC Graph-based Multi-view Clustering [(matlab)](https://github.com/cshaowang/gmc)
  
