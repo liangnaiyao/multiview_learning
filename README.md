@@ -71,6 +71,8 @@
  * 2.16 PR19 Multi-view Subspace Clustering with Intactness-Aware Similarity [(matlab)](http://www.cbsr.ia.ac.cn/users/xiaobowang/)
 
  * 2.17 IF20 Multi-view spectral clustering via integrating nonnegative embedding and spectral embedding [(matlab)](https://github.com/sudalvxin/SMSC)
+ 
+ * 2.18 N19 Auto-weighted multi-view constrained spectral clustering [(matlab)](https://github.com/ViviQian/MVCSC)
 
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
