@@ -201,5 +201,4 @@
  ## Part C: famous authors in the field of multi-view learning 
 
  * 1.1 famous authors in the field of multi-view learning
-
       - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
