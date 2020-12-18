@@ -198,7 +198,12 @@
  
  * 9.1 TNNLS19 Robust Multi-view Subspace Learning with Non-independently and Non-identically Distributed Complex Noise [(matlab)](https://github.com/zsyOAOA/NIID-MSL/tree/master/inexact_alm_rpca)
   
- ## Part C: famous authors in the field of multi-view learning 
+ ## Part C: Others 
 
  * 1.1 famous authors in the field of multi-view learning
+ 
       - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
+      
+ * 1.2 other github pages with code      
+ 
+       - classify the methods by task [(link)](https://github.com/lslrh/multi-view)
