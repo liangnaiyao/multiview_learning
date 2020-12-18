@@ -206,4 +206,4 @@
       
  * 1.2 other github pages with code      
  
-       - classify the methods by task [(link)](https://github.com/lslrh/multi-view)
+      - classify the methods by task [(link)](https://github.com/lslrh/multi-view)
