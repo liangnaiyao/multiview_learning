@@ -197,7 +197,11 @@
  ### 9. Non-independently and Non-identically Distributed Complex Noise
  
  * 9.1 TNNLS19 Robust Multi-view Subspace Learning with Non-independently and Non-identically Distributed Complex Noise [(matlab)](https://github.com/zsyOAOA/NIID-MSL/tree/master/inexact_alm_rpca)
-  
+
+ ### 10. Multiview training boost Single-view test
+ 
+ * 10.1 TPAMI20 Multiview Feature Selection for Single-view Classification [(matlab)](https://github.com/mkomeili/MVSV)
+
  ## Part C: Others 
 
  * 1.1 famous authors in the field of multi-view learning
