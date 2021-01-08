@@ -73,6 +73,8 @@
  * 2.17 IF20 Multi-view spectral clustering via integrating nonnegative embedding and spectral embedding [(matlab)](https://github.com/sudalvxin/SMSC)
  
  * 2.18 N19 Auto-weighted multi-view constrained spectral clustering [(matlab)](https://github.com/ViviQian/MVCSC)
+ 
+ * 2.19 KBS19 A Study of Graph-based System for Multi-view Clustering [(matlab)](https://github.com/cswanghao/gbs)
 
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
@@ -156,6 +158,8 @@
  * 1.4 IJCAI16 Incomplete Multi-Modal Visual Data Grouping [(matlab)](https://github.com/hdzhao/IMG)
 
  * 1.5 TC20 Generalized Incomplete Multiview Clustering With Flexible Locality Structure Diffusion [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications)
+ 
+ * 1.6 IJCAI19 Spectral Perturbation Meets Incomplete Multi-view Data  [(matlab)](https://github.com/cshaowang/pic)
 
  ### 2. Person Re-Identification
 
@@ -171,7 +175,7 @@
 
  * 4.1 ECCV14 Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation [(matlab)](https://yanweifu.github.io/embedding/index.html)
  
- ### 5. Multi-label learning
+ ### 5. Multi-label learning or Weak-label learning
 
  * 5.1 SIAM SDM18 Multi-view Weak-label Learning based on Matrix Completion [(matlab)](http://mlda.swu.edu.cn/codes.php?name=McWL)
       - Weak-label learning is an important branch of multi-label learning. 
@@ -179,6 +183,10 @@
  * 5.2 Access19 Multi-View Multi-Label Learning With View-Label-Specific Features [(matlab)](https://github.com/jiunhwang/Date_and_Code/blob/master/code_and_data/VLSF-public.zip)
  
  * 5.3 The method in 1.4 is also a multi-label learning method.
+ 
+ * 5.4 IJCAI18 Incomplete Multi-View Weak-Label Learning [(matlab)](http://mlda.swu.edu.cn/codes.php?name=iMVWL)
+ 
+ * 5.5 IJCAI20 Weakly-Supervised Multi-view Multi-instance Multi-label Learning [(matlab)](http://mlda.swu.edu.cn/codes.php?name=WSM3L)
 
  ### 6. Online learning      
  
