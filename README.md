@@ -90,6 +90,9 @@
  * 3.5 TIP19 Split Multiplicative Multi-view Subspace Clustering [(matlab)](https://qianqianxu010.github.io/publications/)
  
  * 3.6 CVPR17 Exclusivity-Consistency Regularized Multi-view Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
+
+ * 3.7 TPAMI20 Generalized Latent Multi-view Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code/LMSC_CVPR2017_Zhang.rar)
+     - The conference variant is CVPR17 Latent Multi-view Subspace Clustering.
  
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
@@ -99,6 +102,9 @@
  * 4.2 ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
  
  * 4.3 TIP19 Essential tensor learning for multi-view spectral clustering [(matlab)](https://github.com/Jlwu1992/Code-for-ETLMSC/tree/c83e5b336ca2490bbfb32415930326e0536391f1)
+
+ * 4.4 IJCV20 Tensorized Multi-View Subspace Representation Learning [(matlab)](https://hzfu.github.io/)
+      - The conference variant may be ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering.
  
  ### 5. Kernel learning based methods
 
@@ -159,7 +165,10 @@
 
  * 1.5 TC20 Generalized Incomplete Multiview Clustering With Flexible Locality Structure Diffusion [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications)
  
- * 1.6 IJCAI19 Spectral Perturbation Meets Incomplete Multi-view Data  [(matlab)](https://github.com/cshaowang/pic)
+ * 1.6 IJCAI19 Spectral Perturbation Meets Incomplete Multi-view Data [(matlab)](https://github.com/cshaowang/pic)
+
+ * 1.7 TPAMI, in press, Deep Partial Multi-View Learning [(python)](https://github.com/hanmenghan/CPM_Nets) 
+      - The conference variant is NIPS19 CPM-Nets: Cross Partial Multi-View Networks.
 
  ### 2. Person Re-Identification
 
