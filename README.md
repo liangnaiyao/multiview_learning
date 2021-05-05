@@ -33,7 +33,9 @@
  * 1.12 ICDE20 A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-view-Clustering-2CMV)
  
  * 1.13 ECCV20 SPL-MLL: Selecting Predictable Landmarks for Multi-Label Learning [(python)](https://github.com/yidaiqiushen/SPL-MLL)
- 
+
+ * 1.14 PR20 Auto-weighted Multi-view Clustering via Deep Matrix Decomposition [(matlab)](https://github.com/huangsd/DeepMVC)
+
 ### 2. Graph based methods
      It contains two kinds of methods. The first kind is using a predefined graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
      
@@ -76,6 +78,14 @@
  
  * 2.19 KBS19 A Study of Graph-based System for Multi-view Clustering [(matlab)](https://github.com/cswanghao/gbs)
 
+* 2.20 PR19 Auto-weighted Multi-view Clustering via Kernelized Graph Learning [(matlab)](https://github.com/huangsd/MVC-via-kernelized-graph-learning)
+
+* 2.21 TKDE21 Measuring Diversity in Graph Learning: A Unified Framework for Structured Multi-view Clustering  [(matlab)](https://github.com/huangsd/CDMGC)
+
+* 2.22 IJCAI21 Graph Filter-based Multi-view Attributed Graph Clustering [(python)](https://github.com/sckangz/MvAGC)
+
+* 2.23 TCYB21 Structured Graph Learning for Scalable Subspace Clustering: From Single-view to Multi-view [(matlab)](https://github.com/sckangz/SGL)
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
@@ -94,6 +104,8 @@
  * 3.7 TPAMI20 Generalized Latent Multi-view Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code/LMSC_CVPR2017_Zhang.rar)
      - The conference variant is CVPR17 Latent Multi-view Subspace Clustering.
  
+ * 3.8 IS21 Multi-view Subspace Clustering via Partition Fusion [(matlab)](https://github.com/LyuJC/PFSC)
+ 
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
 
@@ -105,6 +117,12 @@
 
  * 4.4 IJCV20 Tensorized Multi-View Subspace Representation Learning [(matlab)](https://hzfu.github.io/)
       - The conference variant may be ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering.
+ 
+ * 4.5 IJCV18 On Unifying Multi-view Self-Representations for Clustering by Tensor Multi-rank Minimization [(matlab)](https://www.researchgate.net/publication/324151918_the_source_of_paper_On_Unifying_Multi-View_Self-Representations_for_Clustering_by_Tensor_Multi-Rank_Minimization)
+
+ * 4.6 TCYB20 Hyper-Laplacian Regularized Multilinear Multi-View Self-Representation for Clustering and Semi-supervised Learning [(matlab)](https://www.researchgate.net/publication/325965851_code_for_Hyper-Laplacian_Regularized_Multilinear_Multi-View_Self-Representation_for_Clustering_and_Semi-supervised_Learning)
+
+ * 4.7 TCSVT21 Multi-View Spectral Clustering Tailored Tensor Low-Rank Representation [(matlab)](https://github.com/jyh-learning/MVSC-TLRR)
  
  ### 5. Kernel learning based methods
 
@@ -149,6 +167,16 @@
  ### 9. Co-training based methods
 
  * 9.1 JMLR20 Self-paced Multi-view Co-training [(python)](https://github.com/Flowerfan/SPamCo)
+ 
+ ###  10. Metric Learning based methods
+ 
+* 10.1 IJCAI18 FISH-MML: Fisher-HSIC Multi-View Metric Learning[(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code/FISH.rar)
+
+ ### 11. Self-supervised Learning
+
+* 11.1 ICLR21 Self-supervised Learning from a Multi-view Perspective [(python)](https://github.com/yaohungt/Self_Supervised_Learning_Multiview)
+
+* 11.2  ECCV20 Contrastive Multiview Coding [(python)](https://github.com/HobbitLong/CMC/)
  
  ## Part B: multi-view applications with code 
 
