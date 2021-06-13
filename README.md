@@ -162,6 +162,10 @@
  
  * 7.12 SIAM19 Deep Multi-view Information Bottleneck [(python)](https://github.com/wangqi1919/Code-Deep-Multiview-Information-Bottleneck)
  
+ * 7.13 ICML20 Contrastive Multi-View Representation Learning on Graphs [(python)](https://github.com/kavehhassani/mvgrl)
+
+ * 7.14 ECCV20 Contrastive Multiview Coding [(python)](https://github.com/HobbitLong/CMC)
+ 
  ### 8. SVM based methods
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
