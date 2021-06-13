@@ -137,6 +137,7 @@
  * 6.2 TIP16 Multimodal Task-Driven Dictionary Learning for Image Classification[(matlab)](https://github.com/soheilb/multimodal_dictionary_learning)
  
   ### 7. Deep learning based or network based methods
+       Part A 11 Self-supervised Learning is also based on Deep learning.
 
  * 7.1 TIP19 Multi-view Deep Subspace Clustering Networks [(python)](https://github.com/huybery/MvDSCN)
  
@@ -178,7 +179,7 @@
  
 * 10.1 IJCAI18 FISH-MML: Fisher-HSIC Multi-View Metric Learning[(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code/FISH.rar)
 
- ### 11. Self-supervised Learning
+ ### 11. Self-supervised Learning based methods
 
 * 11.1 ICLR21 Self-supervised Learning from a Multi-view Perspective [(python)](https://github.com/yaohungt/Self_Supervised_Learning_Multiview)
 
