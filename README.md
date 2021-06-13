@@ -158,6 +158,10 @@
   
  * 7.10 ICCV19 Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering [(matlab)](https://github.com/limit-scu/2019-ICCV-RMSL)
  
+ * 7.11 ICLR20 Learning Robust Representations via Multi-View Information Bottleneck [(python)](https://github.com/mfederici/Multi-View-Information-Bottleneck)
+ 
+ * 7.12 SIAM19 Deep Multi-view Information Bottleneck [(python)](https://github.com/wangqi1919/Code-Deep-Multiview-Information-Bottleneck)
+ 
  ### 8. SVM based methods
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
