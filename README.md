@@ -258,7 +258,7 @@
 
  ### 11. Fuzzy clustering
  
- * 10.1 PR21 Collaborative feature-weighted multi-view fuzzy c-means clustering [(matlab)](https://github.com/ChrisSinaga02/Collaborative_MVFCM)
+ * 11.1 PR21 Collaborative feature-weighted multi-view fuzzy c-means clustering [(matlab)](https://github.com/ChrisSinaga02/Collaborative_MVFCM)
 
  ## Part C: Others 
 
