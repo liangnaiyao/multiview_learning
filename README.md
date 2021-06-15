@@ -256,6 +256,10 @@
  
  * 10.1 TPAMI20 Multiview Feature Selection for Single-view Classification [(matlab)](https://github.com/mkomeili/MVSV)
 
+ ### 11. Fuzzy clustering
+ 
+ * 10.1 PR21 Collaborative feature-weighted multi-view fuzzy c-means clustering [(matlab)](https://github.com/ChrisSinaga02/Collaborative_MVFCM)
+
  ## Part C: Others 
 
  * 1.1 famous authors in the field of multi-view learning
