@@ -88,6 +88,8 @@
 
 * 2.24 TKDE20 Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix [(matlab)](https://github.com/wx-liang/ONMSC-LF)
 
+* 2.25 TKDE21 Consensus Graph Learning for Multi-view Clustering [(matlab&python)](https://github.com/guanyuezhen/CGL)
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
@@ -219,6 +221,8 @@
 
   * 1.9 TPAMI19 Late Fusion Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/Late-Fusion-Incomplete-Multi-view-Clustering)
 
+  * 2.0 ICME21 Tensor-based Multi-view Block-diagonal Structure Diffusion for Clustering Incomplete Multi-view Data [(matlab)](https://github.com/ChangTang/TMBSD)
+  
  ### 2. Person Re-Identification
 
  * 2.1 TPAMI18 Person Re-Identification by Cross-View Multi-Level Dictionary Learning [(matlab)](https://sites.google.com/view/shengli)
