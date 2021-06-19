@@ -86,6 +86,8 @@
 
 * 2.23 TCYB21 Structured Graph Learning for Scalable Subspace Clustering: From Single-view to Multi-view [(matlab)](https://github.com/sckangz/SGL)
 
+* 2.24 TKDE20 Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix [(matlab)](https://github.com/wx-liang/ONMSC-LF)
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
@@ -105,6 +107,10 @@
      - The conference variant is CVPR17 Latent Multi-view Subspace Clustering.
  
  * 3.8 IS21 Multi-view Subspace Clustering via Partition Fusion [(matlab)](https://github.com/LyuJC/PFSC)
+ 
+ * 3.9 TNNLS21 Multiview Subspace Clustering via Co-Training Robust Data Representation [(matlab)](https://github.com/liujiyuan13/CoMSC-code_release)
+ 
+ * 3.10 TKDE20 Consensus One-step Multi-view Subspace Clustering [(matlab)](https://github.com/Jeaninezpp/COMVSC)
  
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
@@ -129,6 +135,8 @@
  ### 5. Kernel learning based methods
 
  * 5.1 N18 Local kernel alignment based multi-view clustering using extreme learning machine [(matlab)](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM)
+ 
+ * 5.2 TKDE20 Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels [(matlab)](https://github.com/liujiyuan13/ON-ALK_release_code)
  
   ### 6. Dictionary learning based methods
 
@@ -206,6 +214,10 @@
 
  * 1.7 TPAMI, in press, Deep Partial Multi-View Learning [(python)](https://github.com/hanmenghan/CPM_Nets) 
       - The conference variant is NIPS19 CPM-Nets: Cross Partial Multi-View Networks.
+    
+  * 1.8 TPAMI20 Efficient and Effective Regularized Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/TPAMI_EEIMVC)
+
+  * 1.9 TPAMI19 Late Fusion Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/Late-Fusion-Incomplete-Multi-view-Clustering)
 
  ### 2. Person Re-Identification
 
