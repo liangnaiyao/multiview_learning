@@ -198,6 +198,10 @@
 * 11.2 ECCV20 Contrastive Multiview Coding [(python)](https://github.com/HobbitLong/CMC/)
 
 * 11.3 ICML20 Contrastive Multi-View Representation Learning on Graphs [(python)](https://github.com/kavehhassani/mvgrl) 
+
+ ### 12. Regression based methods
+ 
+ * 12.1 PR19 Adaptive-Weighting Discriminative Regression for Multi-View Classification [(matlab)](https://github.com/muliyangm/WeightReg)
  
  ## Part B: multi-view applications with code 
 
