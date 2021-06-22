@@ -90,6 +90,8 @@
 
 * 2.25 TKDE21 Consensus Graph Learning for Multi-view Clustering [(matlab&python)](https://github.com/guanyuezhen/CGL)
 
+* 2.26 AAAI20 CGD: Multi-view Clustering via Cross-view Graph Diffusion [(matlab)](https://github.com/ChangTang/CGD)
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
