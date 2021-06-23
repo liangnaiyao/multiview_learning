@@ -202,7 +202,11 @@
  ### 12. Regression based methods
  
  * 12.1 PR19 Adaptive-Weighting Discriminative Regression for Multi-View Classification [(matlab)](https://github.com/muliyangm/WeightReg)
+
+ ### 13. Discriminant analysis based methods
  
+ * 13.1 TPAMMI16 Multi-view discriminant analysis [(matlab)](https://vipl.ict.ac.cn/view_database.php?id=6)
+
  ## Part B: multi-view applications with code 
 
  ### 1. Incomplete or partial multi-view learning
