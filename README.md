@@ -292,7 +292,7 @@
 
  * 12.1 ICLR21 Trusted Multi-View Classification [(python)](https://github.com/hanmenghan/TMC)
 
- * 12.2 AAA18 Reliable multi-view clustering [(matlab)](https://github.com/taohong08/reliable-multi-view-clustering)
+ * 12.2 AAAI18 Reliable multi-view clustering [(matlab)](https://github.com/taohong08/reliable-multi-view-clustering)
 
  ## Part C: Others 
 
