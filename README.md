@@ -286,6 +286,10 @@
  
  * 11.1 PR21 Collaborative feature-weighted multi-view fuzzy c-means clustering [(matlab)](https://github.com/ChrisSinaga02/Collaborative_MVFCM)
 
+ ### 12. Trusted learning
+
+ * 12.1 ICLR21 Trusted Multi-View Classification [(python)](https://github.com/hanmenghan/TMC)
+
  ## Part C: Others 
 
  * 1.1 famous authors in the field of multi-view learning
