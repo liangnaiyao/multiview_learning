@@ -203,6 +203,8 @@
  
  * 12.1 PR19 Adaptive-Weighting Discriminative Regression for Multi-View Classification [(matlab)](https://github.com/muliyangm/WeightReg)
 
+ * 12.2 TC20 Multiview Classification With Cohesion and Diversity [(matlab)](https://github.com/taohong08/Multiview-Classification-With-Cohesion-and-Diversity)
+
  ### 13. Discriminant analysis based methods
  
  * 13.1 TPAMMI16 Multi-view discriminant analysis [(matlab)](https://vipl.ict.ac.cn/view_database.php?id=6)
@@ -227,11 +229,11 @@
  * 1.7 TPAMI, in press, Deep Partial Multi-View Learning [(python)](https://github.com/hanmenghan/CPM_Nets) 
       - The conference variant is NIPS19 CPM-Nets: Cross Partial Multi-View Networks.
     
-  * 1.8 TPAMI20 Efficient and Effective Regularized Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/TPAMI_EEIMVC)
+ * 1.8 TPAMI20 Efficient and Effective Regularized Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/TPAMI_EEIMVC)
 
-  * 1.9 TPAMI19 Late Fusion Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/Late-Fusion-Incomplete-Multi-view-Clustering)
+ * 1.9 TPAMI19 Late Fusion Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/Late-Fusion-Incomplete-Multi-view-Clustering)
 
-  * 2.0 ICME21 Tensor-based Multi-view Block-diagonal Structure Diffusion for Clustering Incomplete Multi-view Data [(matlab)](https://github.com/ChangTang/TMBSD)
+ * 1.10 ICME21 Tensor-based Multi-view Block-diagonal Structure Diffusion for Clustering Incomplete Multi-view Data [(matlab)](https://github.com/ChangTang/TMBSD)
   
  ### 2. Person Re-Identification
 
@@ -286,9 +288,11 @@
  
  * 11.1 PR21 Collaborative feature-weighted multi-view fuzzy c-means clustering [(matlab)](https://github.com/ChrisSinaga02/Collaborative_MVFCM)
 
- ### 12. Trusted learning
+ ### 12. Trusted (or reliable) learning
 
  * 12.1 ICLR21 Trusted Multi-View Classification [(python)](https://github.com/hanmenghan/TMC)
+
+ * 12.2 AAA18 Reliable multi-view clustering [(matlab)](https://github.com/taohong08/reliable-multi-view-clustering)
 
  ## Part C: Others 
 
