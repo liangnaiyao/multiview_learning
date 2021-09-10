@@ -92,6 +92,8 @@
 
 * 2.26 AAAI20 CGD: Multi-view Clustering via Cross-view Graph Diffusion [(matlab)](https://github.com/ChangTang/CGD)
 
+* 2.27 TKDE21 Multi-view Attributed Graph Clustering [(python)](https://github.com/sckangz/MAGC)
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
@@ -115,6 +117,8 @@
  * 3.9 TNNLS21 Multiview Subspace Clustering via Co-Training Robust Data Representation [(matlab)](https://github.com/liujiyuan13/CoMSC-code_release)
  
  * 3.10 TKDE20 Consensus One-step Multi-view Subspace Clustering [(matlab)](https://github.com/Jeaninezpp/COMVSC)
+ 
+ * 3.11 NCAA21 Smoothed Multi-View Subspace Clustering [(matlab)](https://github.com/EricliuLiang/SMVSC)
  
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
