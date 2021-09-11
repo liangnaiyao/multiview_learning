@@ -217,7 +217,7 @@
  
  * 14.1 N19 Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters [(python)](https://github.com/goyalanil/PB-MVBoost)
 
- ### 15. Stochastic Neighbour Embedding (SNE) based methods
+ ### 15. SNE (Stochastic Neighbour Embedding) based methods
  
  * 15.1 arXiv21 Multi-view Data Visualisation via Manifold Learning [(python)](https://github.com/theorod93/multiView_manifoldLearning)
 
@@ -318,7 +318,7 @@
  
   * 15.1 MIPS19 Multiview Aggregation for Learning Category-Specific Shape Reconstruction [(python)](https://github.com/drsrinathsridhar/xnocs) 
 
- ### 16. Shape Reconstruction
+ ### 16. 3D Object Recognition
  
   * 16.1 CVPR20 Views Self Supervised and Regularized Learning for 3D Object Recognition [(python)](https://github.com/chihhuiho/VISPE) 
 
