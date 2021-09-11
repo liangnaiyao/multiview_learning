@@ -203,7 +203,7 @@
 
 * 11.3 ICML20 Contrastive Multi-View Representation Learning on Graphs [(python)](https://github.com/kavehhassani/mvgrl) 
 
- ### 12. Regression based methods
+ ### 12. Least squares regression based methods
  
  * 12.1 PR19 Adaptive-Weighting Discriminative Regression for Multi-View Classification [(matlab)](https://github.com/muliyangm/WeightReg)
 
@@ -212,6 +212,14 @@
  ### 13. Discriminant analysis based methods
  
  * 13.1 TPAMMI16 Multi-view discriminant analysis [(matlab)](https://vipl.ict.ac.cn/view_database.php?id=6)
+
+ ### 14. Boosting based methods
+ 
+ * 14.1 N19 Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters [(python)](https://github.com/goyalanil/PB-MVBoost)
+
+ ### 15. Stochastic Neighbour Embedding (SNE) based methods
+ 
+ * 15.1 arXiv21 Multi-view Data Visualisation via Manifold Learning [(python)](https://github.com/theorod93/multiView_manifoldLearning)
 
  ## Part B: multi-view applications with code 
 
@@ -298,12 +306,35 @@
 
  * 12.2 AAAI18 Reliable multi-view clustering [(matlab)](https://github.com/taohong08/reliable-multi-view-clustering)
 
+ ### 13. 3D point cloud registration
+
+ * 13.1 CVPR20 Learning multiview 3D point cloud registration [(python)](https://github.com/zgojcic/3D_multiview_reg)
+
+ ### 14. Recommendation
+ 
+  * 14.1 SIGIR20 MVIN: Learning Multiview Items for Recommendation [(python)](https://github.com/johnnyjana730/MVIN) 
+
+ ### 15. Shape Reconstruction
+ 
+  * 15.1 MIPS19 Multiview Aggregation for Learning Category-Specific Shape Reconstruction [(python)](https://github.com/drsrinathsridhar/xnocs) 
+
+ ### 16. Shape Reconstruction
+ 
+  * 16.1 CVPR20 Views Self Supervised and Regularized Learning for 3D Object Recognition [(python)](https://github.com/chihhuiho/VISPE) 
+
+ ### 17. Remote Sensing Scene Representations
+ 
+  * 17.1 CVPR21 Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding [(python)](https://github.com/vladan-stojnic/CMC-RSSR) 
+
  ## Part C: Others 
 
  * 1.1 famous authors in the field of multi-view learning
  
       - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
-      
- * 1.2 other github pages with code      
+
+ * 1.3 Multi-view data
+    - Multi-view data refers to multiple types of data generated from the same samples.
+
+ * 1.3 other github pages with code      
  
     
