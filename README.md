@@ -179,6 +179,9 @@
  
  * 7.12 SIAM19 Deep Multi-view Information Bottleneck [(python)](https://github.com/wangqi1919/Code-Deep-Multiview-Information-Bottleneck)
  
+ * 7.13 TIP21 Deep Spectral Representation Learning From Multi-View Data [(python)](https://github.com/XLearning-SCU/2021-TIP-MvLNet)
+        - The conference variant is IJCAI19 Multi-view Spectral Clustering Network (7.9).
+ 
  ### 8. SVM based methods
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
@@ -202,6 +205,12 @@
 * 11.2 ECCV20 Contrastive Multiview Coding [(python)](https://github.com/HobbitLong/CMC/)
 
 * 11.3 ICML20 Contrastive Multi-View Representation Learning on Graphs [(python)](https://github.com/kavehhassani/mvgrl) 
+
+* 11.4 CVPR21 Partially View-aligned Representation Learning with Noise-robust Contrastive Loss [(python)](https://github.com/XLearning-SCU/2021-CVPR-MvCLN) 
+
+* 11.5 CVPR21 COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction [(python)](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
+
+* 11.6 AAAI21 Contrastive Clustering [(python)](https://github.com/Yunfan-Li/Contrastive-Clustering) 
 
  ### 12. Least squares regression based methods
  
@@ -246,6 +255,8 @@
  * 1.9 TPAMI19 Late Fusion Incomplete Multi-view Clustering [(matlab)](https://github.com/xinwangliu/Late-Fusion-Incomplete-Multi-view-Clustering)
 
  * 1.10 ICME21 Tensor-based Multi-view Block-diagonal Structure Diffusion for Clustering Incomplete Multi-view Data [(matlab)](https://github.com/ChangTang/TMBSD)
+ 
+ * 1.11 NeurIPS20 Partially View-aligned Clustering [(python)](https://github.com/hi-zhenyu/PVC)
   
  ### 2. Person Re-Identification
 
