@@ -180,7 +180,7 @@
  * 7.12 SIAM19 Deep Multi-view Information Bottleneck [(python)](https://github.com/wangqi1919/Code-Deep-Multiview-Information-Bottleneck)
  
  * 7.13 TIP21 Deep Spectral Representation Learning From Multi-View Data [(python)](https://github.com/XLearning-SCU/2021-TIP-MvLNet)
-        - The conference variant is IJCAI19 Multi-view Spectral Clustering Network (7.9).
+     - The conference variant is IJCAI19 Multi-view Spectral Clustering Network (7.9).
  
  ### 8. SVM based methods
 
@@ -336,6 +336,10 @@
  ### 17. Remote Sensing Scene Representations
  
   * 17.1 CVPR21 Self-Supervised Learning of Remote Sensing Scene Representations Using Contrastive Multiview Coding [(python)](https://github.com/vladan-stojnic/CMC-RSSR) 
+
+ ### 18. View generation
+ 
+  * 18.1 ECCV18 Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [(python)](https://github.com/shaohua0116/Multiview2Novelview) 
 
  ## Part C: Others 
 
