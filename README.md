@@ -182,6 +182,8 @@
  * 7.13 TIP21 Deep Spectral Representation Learning From Multi-View Data [(python)](https://github.com/XLearning-SCU/2021-TIP-MvLNet)
      - The conference variant is IJCAI19 Multi-view Spectral Clustering Network (7.9).
  
+ * 7.14 TM21 Self-supervised Graph Convolutional Network For Multi-view Clustering [(python)](https://github.com/xdweixia/SGCMC)
+ 
  ### 8. SVM based methods
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
@@ -211,6 +213,8 @@
 * 11.5 CVPR21 COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction [(python)](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
 
 * 11.6 AAAI21 Contrastive Clustering [(python)](https://github.com/Yunfan-Li/Contrastive-Clustering) 
+
+* 11.7 The method in 7.14 is also a self-supervised Learning based method.
 
  ### 12. Least squares regression based methods
  
