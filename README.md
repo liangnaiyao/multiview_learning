@@ -261,6 +261,8 @@
  * 1.10 ICME21 Tensor-based Multi-view Block-diagonal Structure Diffusion for Clustering Incomplete Multi-view Data [(matlab)](https://github.com/ChangTang/TMBSD)
  
  * 1.11 NeurIPS20 Partially View-aligned Clustering [(python)](https://github.com/hi-zhenyu/PVC)
+
+ * 1.12 TAI22 Incomplete Multiview Clustering with Cross-view Feature Transformation [(matlab)](https://github.com/liangnaiyao/CFTIMC)
   
  ### 2. Person Re-Identification
 
