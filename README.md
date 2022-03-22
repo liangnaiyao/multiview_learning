@@ -36,6 +36,8 @@
 
  * 1.14 PR20 Auto-weighted Multi-view Clustering via Deep Matrix Decomposition [(matlab)](https://github.com/huangsd/DeepMVC)
 
+ * 1.15 TKDE(Early Access) Learning Inter- and Intra-manifolds for Matrix Factorization-based Multi-Aspect Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-viewClustering_DiMMA)
+
 ### 2. Graph based methods
      It contains two kinds of methods. The first kind is using a predefined graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
      
