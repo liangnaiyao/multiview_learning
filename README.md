@@ -143,6 +143,7 @@
  * 4.8 TKDE20 TCCANet: Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition [(matlab)](https://github.com/AdvAttack/TCCANet-TKDE)  
  
  ### 5. Kernel learning based methods
+     It often first uses kernel representation for each view, and then incorporates different views by seeking optimal combination of multiple kernels of different views. 
 
  * 5.1 N18 Local kernel alignment based multi-view clustering using extreme learning machine [(matlab)](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM)
  
