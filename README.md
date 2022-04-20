@@ -96,6 +96,10 @@
 
 * 2.27 TKDE21 Multi-view Attributed Graph Clustering [(python)](https://github.com/sckangz/MAGC)
 
+* 2.28 TPAMI (Early Access) Improved Normalized Cut for Multi-view Clustering [(matlab)](https://github.com/Ekin102003/MCMLE)
+
+* 2.29 TIP22 Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance [(matlab)](https://github.com/wangsiwei2010/FPMVS-CAG)
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
@@ -266,6 +270,8 @@
  * 1.11 NeurIPS20 Partially View-aligned Clustering [(python)](https://github.com/hi-zhenyu/PVC)
 
  * 1.12 TAI22 Incomplete Multiview Clustering with Cross-view Feature Transformation [(matlab)](https://github.com/liangnaiyao/CFTIMC)
+
+ * 1.13 AAAI22 Deep Incomplete Multi-View Clustering via Mining Cluster Complementarity [(python)](https://github.com/SubmissionsIn/DIMVC)
   
  ### 2. Person Re-Identification
 
@@ -349,6 +355,14 @@
  ### 18. View generation
  
   * 18.1 ECCV18 Multi-view to Novel view: Synthesizing Novel Views with Self-Learned Confidence [(python)](https://github.com/shaohua0116/Multiview2Novelview) 
+
+ ### 19. Dialog Intent Induction
+
+  * 19.1 EMNLP19 Dialog Intent Induction with Deep Multi-View Clustering [(python)](https://github.com/asappresearch/dialog-intent-induction) 
+
+ ### 20. Partially View-unaligned Problem
+ 
+   * 20.1 TPAMI(Early Access) Robust Multi-view Clustering with Incomplete Information [(python)](https://github.com/XLearning-SCU/2022-TPAMI-SURE) 
 
  ## Part C: Others 
 
