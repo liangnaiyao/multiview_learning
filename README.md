@@ -100,6 +100,8 @@
 
 * 2.29 TIP22 Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance [(matlab)](https://github.com/wangsiwei2010/FPMVS-CAG)
 
+* 2.30 TCYB19 Dubbed Contextual Correlation Preserving Multi-View Featured Graph Clustering [(matlab)](https://github.com/he-tiantian/CCPMVFGC) 
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
@@ -125,6 +127,10 @@
  * 3.10 TKDE20 Consensus One-step Multi-view Subspace Clustering [(matlab)](https://github.com/Jeaninezpp/COMVSC)
  
  * 3.11 NCAA21 Smoothed Multi-View Subspace Clustering [(matlab)](https://github.com/EricliuLiang/SMVSC)
+
+* 3.12 TCSVT21 Generalized Multi-view Collaborative Subspace Clustering [(matlab)](https://github.com/Lan-MC/GMCSC)
+
+* 3.13 AAAI22 Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors [(matlab)](https://github.com/Tracesource/EOMSC-CA)
  
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
@@ -190,7 +196,11 @@
      - The conference variant is IJCAI19 Multi-view Spectral Clustering Network (7.9).
  
  * 7.14 TM21 Self-supervised Graph Convolutional Network For Multi-view Clustering [(python)](https://github.com/xdweixia/SGCMC)
- 
+
+ * 7.15 BD21 CONAN: Contrastive Fusion Networks for Multi-view Clustering [(python)](https://github.com/Guanzhou-Ke/conan)
+
+ * 7.16 NN22 Multi-view graph embedding clustering network: Joint self-supervision and block diagonal representation [(python)]( https://github.com/xdweixia/NN-2022-MVGC)
+
  ### 8. SVM based methods
 
  * 8.1 TNNLS18 Multiview Privileged Support Vector Machines [(matlab)](https://github.com/tangjingjing13/psvm_2v)
@@ -363,6 +373,10 @@
  ### 20. Partially View-unaligned Problem
  
    * 20.1 TPAMI(Early Access) Robust Multi-view Clustering with Incomplete Information [(python)](https://github.com/XLearning-SCU/2022-TPAMI-SURE) 
+
+ ### 21. Cancer Subtype Identification
+ 
+   * 21.1 TCBB22 Multi-view Robust Graph-based clustering for Cancer Subtype Identification [(matlab)](https://github.com/sxf118/MRGC)
 
  ## Part C: Others 
 
