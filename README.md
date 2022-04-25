@@ -239,6 +239,10 @@
 
  * 12.2 TC20 Multiview Classification With Cohesion and Diversity [(matlab)](https://github.com/taohong08/Multiview-Classification-With-Cohesion-and-Diversity)
 
+ * 12.3 TIP17 Scalable multi-view semi-supervised classification via adaptive regression [(matlab)](https://github.com/taohong08/Scalable-Multi-View-Semi-Supervised-Classification-via-Adaptive-Regression) 
+
+ * 12.4 ML20 Joint Consensus and Diversity for Multi-view Semi-supervised Classification [(matlab)](https://github.com/ChenpingHou/Joint-Consensus-and-Diversity-for-Multi-view-Semi-supervised-Classification) 
+
  ### 13. Discriminant analysis based methods
  
  * 13.1 TPAMMI16 Multi-view discriminant analysis [(matlab)](https://vipl.ict.ac.cn/view_database.php?id=6)
