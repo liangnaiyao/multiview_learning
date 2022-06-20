@@ -392,7 +392,9 @@
   
           Multi-view data refers to multiple types of data generated from the same samples.  
           
-    - yale_mtv.mat [(Part A 1.1)](https://github.com/hdzhao/DMF_MVC/tree/master/data))
+    - yale_mtv.mat [(Part A 1.1)](https://github.com/hdzhao/DMF_MVC/tree/master/data)
+
+    - 20newsgroups.mat, 3sources.mat, BBC4view_685.mat, BBCSport2view_544.mat,WikipediaArticles.mat [(Part A 1.3)](https://github.com/vast-wang/Clustering/tree/master/Code_MVCC/Dataset)
 
  * 1.3 other github pages with code      
  
