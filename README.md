@@ -388,7 +388,9 @@
  
       - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
 
- * 1.3 Multi-view data
+ * 1.3 Multi-view dataset
+ 
+    - dataset name (the mark refers to the paper listed above)
           
     - yale_mtv [(Part A 1.1)](https://github.com/hdzhao/DMF_MVC/tree/master/data)
 
