@@ -393,7 +393,9 @@
     - 20newsgroups, 3sources, BBC4view_685, BBCSport2view_544, WikipediaArticles [(Part A 1.3)](https://github.com/vast-wang/Clustering/tree/master/Code_MVCC/Dataset)
 
  * 1.2 famous authors in the field of multi-view learning
- 
+  
+         private opinions
+         
       - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
 
  * 1.3 other github pages with code      
