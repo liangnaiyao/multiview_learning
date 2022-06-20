@@ -389,6 +389,7 @@
       - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
 
  * 1.3 Multi-view data
+
      (It refers to multiple types of data generated from the same samples.)
     - yale_mtv.mat [(Part A 1.1)](https://github.com/hdzhao/DMF_MVC/tree/master/data))
 
