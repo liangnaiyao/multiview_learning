@@ -390,7 +390,7 @@
 
  * 1.3 Multi-view dataset
  
-    - dataset name (the mark refers to the paper listed above)
+         example: dataset name (the mark refers to the paper listed above)
           
     - yale_mtv [(Part A 1.1)](https://github.com/hdzhao/DMF_MVC/tree/master/data)
 
