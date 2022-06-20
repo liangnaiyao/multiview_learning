@@ -1,4 +1,5 @@
 # Multi-view learning methods with code
+     One can find the datasets attached with the code at the end of the page.
 
 ## Part A: general multi-view methods with code 
 
