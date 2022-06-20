@@ -1,4 +1,4 @@
-# Multi-view learning methods with code (include dataset)
+# Multi-view learning methods with code
      Datasets attached with the code can be found at the end of the page.
 ## Part A: general multi-view methods with code 
 
