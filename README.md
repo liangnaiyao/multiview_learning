@@ -400,6 +400,6 @@
 
  * 1.3 other github pages with code      
  
-      - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(page)](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
+      - awesome multi-view clustering [(page)](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
  
     
