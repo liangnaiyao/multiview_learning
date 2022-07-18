@@ -400,6 +400,6 @@
 
  * 1.3 other github pages with code      
  
-       - awesome multi-view clustering [(page)](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
+       - awesome multi-view clustering [(page)](https://github.com/wangsiwei2010/awesome-multi-view-clustering) [(python)]([page](https://github.com/wangsiwei2010/awesome-multi-view-clustering)) 
  
     
