@@ -400,4 +400,6 @@
 
  * 1.3 other github pages with code      
  
+       - awesome multi-view clustering [(github)](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
+ 
     
