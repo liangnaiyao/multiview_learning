@@ -286,6 +286,8 @@
  * 1.12 TAI22 Incomplete Multiview Clustering with Cross-view Feature Transformation [(matlab)](https://github.com/liangnaiyao/CFTIMC)
 
  * 1.13 AAAI22 Deep Incomplete Multi-View Clustering via Mining Cluster Complementarity [(python)](https://github.com/SubmissionsIn/DIMVC)
+ 
+ * 1.14 TKDE22 Incomplete Multi-view Clustering with Sample-level Auto-weighted Graph Fusion [(matlab)](https://github.com/liangnaiyao/SAGF_IMC)
   
  ### 2. Person Re-Identification
 
