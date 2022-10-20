@@ -131,6 +131,10 @@
 * 3.12 TCSVT21 Generalized Multi-view Collaborative Subspace Clustering [(matlab)](https://github.com/Lan-MC/GMCSC)
 
 * 3.13 AAAI22 Efficient One-pass Multi-view Subspace Clustering with Consensus Anchors [(matlab)](https://github.com/Tracesource/EOMSC-CA)
+
+* 3.14 IJCAI19 Flexible Multi-View Representation Learning for Subspace Clustering [(matlab)](https://github.com/lslrh/FMR)
+
+* 3.15 ICCV19 Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering [(matlab)](https://github.com/lslrh/RMSL)
  
  ### 4. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
