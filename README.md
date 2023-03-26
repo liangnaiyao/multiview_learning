@@ -38,7 +38,7 @@
 
  * 1.15 TKDE(Early Access) Learning Inter- and Intra-manifolds for Matrix Factorization-based Multi-Aspect Data Clustering [(matlab)](https://github.com/khanhluongds/Multi-viewClustering_DiMMA)
  
- * 1.15 IPM22 Co-consensus semi-supervised multi-view learning with orthogonal non-negative matrix factorization [(matlab)](https://github.com/liangnaiyao/CONMF)
+ * 1.16 IPM22 Co-consensus semi-supervised multi-view learning with orthogonal non-negative matrix factorization [(matlab)](https://github.com/liangnaiyao/CONMF)
 
 ### 2. Graph based methods
      It contains two kinds of methods. The first kind is using a predefined or leaning graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
