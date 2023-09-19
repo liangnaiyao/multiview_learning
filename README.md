@@ -104,6 +104,8 @@
 
 * 2.30 TCYB19 Dubbed Contextual Correlation Preserving Multi-View Featured Graph Clustering [(matlab)](https://github.com/he-tiantian/CCPMVFGC) 
 
+* 2.31 TPAMI21 Multi-view Clustering: A Scalable and Parameter-free Bipartite Graph Fusion Method [(matlab, fvnh)](https://pan.baidu.com/s/1ieeDwbV8M3kCzl52bnvfnQ#list/path=%2F) 
+
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
 
