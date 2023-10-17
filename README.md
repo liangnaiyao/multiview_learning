@@ -310,8 +310,6 @@
      
  ### 7. Multi-Instance learning
 
- * 7.1 AAA19 Multi-View Multi-Instance Multi-Label Learning based on Collaborative Matrix Factorization [(matlab)](http://mlda.swu.edu.cn/codes.php?name=M3Lcmf)
-
  ### 8. Large-scale clustering
  
  * 8.1 AAAI20 Large-scale Multi-view Subspace Clustering in Linear Time [(matlab)](https://github.com/sckangz/LMVSC)
