@@ -298,17 +298,11 @@
  * 4.1 ECCV14 Transductive Multi-view Embedding for Zero-Shot Recognition and Annotation [(matlab)](https://yanweifu.github.io/embedding/index.html)
  
  ### 5. Multi-label learning or Weak-label learning
-
- * 5.1 SIAM SDM18 Multi-view Weak-label Learning based on Matrix Completion [(matlab)](http://mlda.swu.edu.cn/codes.php?name=McWL)
       - Weak-label learning is an important branch of multi-label learning. 
 
  * 5.2 Access19 Multi-View Multi-Label Learning With View-Label-Specific Features [(matlab)](https://github.com/jiunhwang/Date_and_Code/blob/master/code_and_data/VLSF-public.zip)
  
  * 5.3 The method in 1.4 is also a multi-label learning method.
- 
- * 5.4 IJCAI18 Incomplete Multi-View Weak-Label Learning [(matlab)](http://mlda.swu.edu.cn/codes.php?name=iMVWL)
- 
- * 5.5 IJCAI20 Weakly-Supervised Multi-view Multi-instance Multi-label Learning [(matlab)](http://mlda.swu.edu.cn/codes.php?name=WSM3L)
 
  ### 6. Online learning      
  
