@@ -54,8 +54,6 @@
  
  * 2.8 TC18 Incomplete Multiview Spectral Clustering With Adaptive Graph Learning [(matlab)](http://www.yongxu.org/lunwen.html)
  
- * 2.9 TKDE19 Graph structure fusion for multiview clustering [(matlab)](https://github.com/dugzzuli/Graph-structure-fusion-for-multiview-clustering)
- 
  * 2.10 ACML19 Latent Multi-view Semi-Supervised Classification [(matlab)](https://github.com/sckangz/LMVL)
  
  * 2.11 NN20 Partition level multiview subspace clustering [(matlab)](https://github.com/sckangz/PMSC)
