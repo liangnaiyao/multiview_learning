@@ -146,19 +146,17 @@
  * 4.1 TNNLS18 Multiview Subspace Clustering via Tensorial t-Product Representation [(matlab)](http://www.scholat.com/portaldownloadFile.html?fileId=4623)
 
  * 4.2 ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering [(matlab)](http://cic.tju.edu.cn/faculty/zhangchangqing/code.html)
- 
- * 4.3 TIP19 Essential tensor learning for multi-view spectral clustering [(matlab)](https://github.com/Jlwu1992/Code-for-ETLMSC/tree/c83e5b336ca2490bbfb32415930326e0536391f1)
 
- * 4.4 IJCV20 Tensorized Multi-View Subspace Representation Learning [(matlab)](https://hzfu.github.io/)
+ * 4.3 IJCV20 Tensorized Multi-View Subspace Representation Learning [(matlab)](https://hzfu.github.io/)
       - The conference variant may be ICCV15 Low-Rank Tensor Constrained Multiview Subspace Clustering.
  
- * 4.5 IJCV18 On Unifying Multi-view Self-Representations for Clustering by Tensor Multi-rank Minimization [(matlab)](https://www.researchgate.net/publication/324151918_the_source_of_paper_On_Unifying_Multi-View_Self-Representations_for_Clustering_by_Tensor_Multi-Rank_Minimization)
+ * 4.4 IJCV18 On Unifying Multi-view Self-Representations for Clustering by Tensor Multi-rank Minimization [(matlab)](https://www.researchgate.net/publication/324151918_the_source_of_paper_On_Unifying_Multi-View_Self-Representations_for_Clustering_by_Tensor_Multi-Rank_Minimization)
 
- * 4.6 TCYB20 Hyper-Laplacian Regularized Multilinear Multi-View Self-Representation for Clustering and Semi-supervised Learning [(matlab)](https://www.researchgate.net/publication/325965851_code_for_Hyper-Laplacian_Regularized_Multilinear_Multi-View_Self-Representation_for_Clustering_and_Semi-supervised_Learning)
+ * 4.5 TCYB20 Hyper-Laplacian Regularized Multilinear Multi-View Self-Representation for Clustering and Semi-supervised Learning [(matlab)](https://www.researchgate.net/publication/325965851_code_for_Hyper-Laplacian_Regularized_Multilinear_Multi-View_Self-Representation_for_Clustering_and_Semi-supervised_Learning)
 
- * 4.7 TCSVT21 Multi-View Spectral Clustering Tailored Tensor Low-Rank Representation [(matlab)](https://github.com/jyh-learning/MVSC-TLRR)
+ * 4.6 TCSVT21 Multi-View Spectral Clustering Tailored Tensor Low-Rank Representation [(matlab)](https://github.com/jyh-learning/MVSC-TLRR)
  
- * 4.8 TKDE20 TCCANet: Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition [(matlab)](https://github.com/AdvAttack/TCCANet-TKDE)  
+ * 4.7 TKDE20 TCCANet: Tensor Canonical Correlation Analysis Networks for Multi-view Remote Sensing Scene Recognition [(matlab)](https://github.com/AdvAttack/TCCANet-TKDE)  
  
  ### 5. Kernel learning based methods
      It often uses kernel representation for each view, and then incorporates different views by seeking optimal combination of multiple kernels of different views. 
