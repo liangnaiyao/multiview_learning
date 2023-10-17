@@ -240,8 +240,6 @@
  * 12.4 ML20 Joint Consensus and Diversity for Multi-view Semi-supervised Classification [(matlab)](https://github.com/ChenpingHou/Joint-Consensus-and-Diversity-for-Multi-view-Semi-supervised-Classification) 
 
  ### 13. Discriminant analysis based methods
- 
- * 13.1 TPAMMI16 Multi-view discriminant analysis [(matlab)](https://vipl.ict.ac.cn/view_database.php?id=6)
 
  ### 14. Boosting based methods
  
