@@ -384,7 +384,11 @@
   
          private opinions
          
-      - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) [(home)](https://sites.google.com/site/feipingnie/publications)
+      - Feiping Nie [(Google Scholar Citations)](https://scholar.google.com/citations?user=2oB4nAIAAAAJ&amp;hl=en) 
+
+      - Changqing Zhang [(Google Scholar Citations)](https://scholar.google.com.hk/citations?hl=zh-CN&user=yJGhdykAAAAJ&view_op=list_works&sortby=pubdate) [(home)](http://cic.tju.edu.cn/faculty/zhangchangqing/research.html)
+  
+      - Xinwang Liu [(Google Scholar Citations)](https://scholar.google.com.hk/citations?user=A56vWC4AAAAJ&hl=zh-CN&oi=ao) 
 
  * 1.3 other github pages with code      
  
