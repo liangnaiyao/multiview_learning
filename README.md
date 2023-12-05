@@ -394,4 +394,4 @@
  
       - awesome multi-view clustering [(page)](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
  
-    
+      - A Survey of Multi-view Clustering Approaches [(page)](https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches)
